@@ -1,10 +1,11 @@
 # OS Experiment Content
 
-⋅⋅* Unordered sub-list. 
+* [Job Schedule - GO](https://github.com/Glutamine525/os1)
+#### Download and install
 
-⋅⋅* [Job Schedule - GO](https://github.com/Glutamine525/os1)
+    go get github.com/Glutamine525/os1
 
-⋅⋅* Experiment 2: [2](https://github.com/Glutamine525/os2)
+* Experiment 2: [2](https://github.com/Glutamine525/os2)
 
 ### Experiment 3: [3](https://github.com/Glutamine525/os3)
 
